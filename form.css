@@ -62,7 +62,7 @@ textarea {
 }
 
 button {
-  background-color: #368b44;
+  background-color: #0a6808;
   color: #fff;
   padding: 10px;
   border: none;
@@ -75,7 +75,7 @@ button {
 }
 
 button:hover {
-  background-color: #0a6808;
+  background-color: #ff7200;
   border: none;
   transform: translateY(-10px);
 }
